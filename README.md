@@ -1,1 +1,1 @@
-# english-quiz
+# Informatics-test
